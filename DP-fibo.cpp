@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int F[100];
+int F[100] = {0,};
 
 int fibo(int n) {
 
