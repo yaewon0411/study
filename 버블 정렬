@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //버블 정렬_오름차순
+
 int list[] = { 3,24,1,49,0,16,17,8,9,6 };
 int len = sizeof(list) / 4;
 
